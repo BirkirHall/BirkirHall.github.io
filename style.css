@@ -11,29 +11,30 @@ html{
 
 
 body {
-  background-color: #FF0000;
-  color: #FFFFAA;
-  font-family: Curlz;
+  background-color: #231981;
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 32px;
 }
 
 h1 {
-  color: #00FF00;
-  background-color: #888888;
+  color: #231981;
+  background-color: #ffffff;
   font-style: bold;
   font-size: 300%;
+  border-radius: 4px;
 }
 
 h2 {
-  color: #00FFFF;
+  color: #ffffff;
   font-style: oblique;
   text-align: center;
-  border: 3px solid green;
+  border: 3px solid rgb(255, 255, 255);
 }
 
 a {
-  font-family: Comic sans ms;
-  color: #AAAAFF;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #ffffff;
 }
 
 a:hover {
@@ -41,5 +42,10 @@ a:hover {
 }
 
 ul {
-  background-color: #994444;
+  background-color: #231981;
+}
+
+img {
+  width: 200px;
+  height: auto;
 }
